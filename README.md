@@ -1,5 +1,11 @@
 # 💫 About Me:
-👋 About Me<br>I'm currently a B.Tech student majoring in Artificial Intelligence and Data Science at Sri Krishna College of Technology, Coimbatore. I'm passionate about solving real-world problems through AI, Blockchain, and Full-Stack Development. I love building scalable tech solutions and exploring emerging technologies.<br><br>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation">
+</p>
+
+👋 About Me  
+I'm currently a B.Tech student majoring in **Artificial Intelligence and Data Science** at Sri Krishna College of Technology, Coimbatore. I'm passionate about solving real-world problems through **AI**, **Blockchain**, and **Full-Stack Development**. I love building scalable tech solutions and exploring emerging technologies.
 
 
 ## 🌐 Socials:
@@ -14,11 +20,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Harris-jayaram&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Harris-jayaram&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
