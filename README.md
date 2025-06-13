@@ -46,7 +46,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,solidjs,tailwind,nodejs,flask,spring,solidity,aws,gcp,firebase,mongodb,mysql,python,pytorch,tensorflow,keras,sklearn,c,cpp,java,git,github,postman,netlify,socketio,anaconda,docker,flutter,dart" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,solidjs,tailwind,nodejs,flask,spring,solidity,aws,gcp,firebase,mongodb,mysql,python,pytorch,tensorflow,sklearn,c,cpp,java,git,github,postman,netlify,anaconda,docker,flutter,dart" />
 </p>
 
 <p align="center">
