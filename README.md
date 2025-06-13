@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#00d4ff">Harris Jayaram</span></h1>
 
 <p align="center">
-  <img src="https://github.com/Harris-jayaram/Harris-jayaram/blob/main/assets/your-new-gif.gif" alt="Animated Profile GIF" style="width:100%; max-width:800px; border-radius:15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
+  <img src="https://github.com/Harris-jayaram/Harris-jayaram/blob/main/Harris Name Gif.gif" alt="Animated Profile GIF" style="width:100%; max-width:800px; border-radius:15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
 </p>
 
 <h3 align="center" style="font-family: 'Poppins', sans-serif; color:#e0e0e0;">AI & Data Science Enthusiast | Blockchain Developer | Full-Stack Innovator</h3>
@@ -20,7 +20,7 @@
 🔹 **My Passion**: Exploring emerging tech, building innovative apps, and pushing the boundaries of what's possible.  
 
 📧 **Email**: [harrisjayaramr@gmail.com](mailto:harrisjayaramr@gmail.com)  
-🌐 **Portfolio**: [Coming Soon!](#)  
+🌐 **Portfolio**: https://harrisjayaram.netlify.app/
 
 ---
 
@@ -42,6 +42,8 @@
 </p>
 
 ---
+
+## 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
