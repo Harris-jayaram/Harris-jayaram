@@ -1,28 +1,96 @@
+<h1 align="center">👋 Hey, I'm <span style="color:#00d4ff">Harris Jayaram</span></h1>
+
 <p align="center">
-  <img src="https://github.com/Harris-jayaram/Harris-jayaram/blob/main/banner.gif" alt="GitHub Banner" style="width:100%; border-radius:10px;">
+  <img src="https://github.com/Harris-jayaram/Harris-jayaram/blob/main/Harris Name Gif.gif" alt="Animated Profile GIF" style="width:100%; max-width:800px; border-radius:15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
 </p>
 
+<h3 align="center" style="font-family: 'Poppins', sans-serif; color:#e0e0e0;">AI & Data Science Enthusiast | Blockchain Developer | Full-Stack Innovator</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harris-jayaram&label=Profile%20Views&color=ff2e63&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Harris-jayaram?label=Followers&style=flat-square&logo=github&color=00d4ff" alt="Followers" />
+</p>
 
-👋 About Me  
-I'm currently a B.Tech student majoring in **Artificial Intelligence and Data Science** at Sri Krishna College of Technology, Coimbatore. I'm passionate about solving real-world problems through **AI**, **Blockchain**, and **Full-Stack Development**. I love building scalable tech solutions and exploring emerging technologies.
-### 👥 Followers Count
-![Followers](https://img.shields.io/github/followers/Harris-jayaram?style=flat&logo=github&label=Followers)
+---
 
+## 🚀 About Me
 
+🔹 **Who I Am**: A B.Tech student in **Artificial Intelligence and Data Science** at Sri Krishna College of Technology, Coimbatore.  
+🔹 **What I Do**: I craft scalable solutions using **AI**, **Blockchain**, and **Full-Stack Development** to solve real-world challenges.  
+🔹 **My Passion**: Exploring emerging tech, building innovative apps, and pushing the boundaries of what's possible.  
 
+📧 **Email**: [harrisjayaramr@gmail.com](mailto:harrisjayaramr@gmail.com)  
+🌐 **Portfolio**: [Coming Soon!](#)  
 
+---
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Um9cd8Rq) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/itz_me_hj_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harrisjayaramr/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/HarrisJayaram) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harrisjayaramr@gmail.com) 
+## 🌐 Connect with Me
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p align="center">
+  <a href="https://linkedin.com/in/harrisjayaramr" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/itz_me_hj_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://x.com/HarrisJayaram" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://discord.gg/Um9cd8Rq" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Harris-jayaram&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Harris-jayaram&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harris-jayaram&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,solidjs,tailwind,nodejs,flask,spring,web3,solidity,aws,gcp,firebase,mongodb,mysql,python,pytorch,tensorflow,keras,sklearn,numpy,pandas,matplotlib,c,cpp,java,git,github,postman,netlify,vercel,render,canva,powerbi" />
+</p>
+
+---
+
+## 💼 What I’m Working On
+
+- 🧠 Developing **AI models** for predictive analytics and computer vision.  
+- ⛓️ Building **decentralized apps** (DApps) with Solidity and Web3.js.  
+- 🌐 Creating **full-stack web and mobile apps** with React, Node.js, and Firebase.  
+- ☁️ Exploring **cloud deployments** with AWS and Google Cloud.  
+
+---
+
+## ✨ Featured Projects
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| 🛡️ Blockchain Voting System | Solidity, Web3.js, React | A secure, transparent voting DApp on Ethereum. |
+| 🤖 AI-Powered Chatbot | Python, TensorFlow, Flask | An intelligent chatbot for customer support automation. |
+| 📱 E-Commerce Mobile App | React Native, Firebase | A cross-platform app with real-time product updates. |
+| 📊 Data Visualization Dashboard | Pandas, Power BI, React | Interactive dashboards for business insights. |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Harris-jayaram&theme=transparent&hide_border=true&background=1a1b27&stroke=00d4ff&ring=00d4ff&fire=ff2e63&currStreakNum=00d4ff&sideNums=00d4ff&currStreakLabel=00d4ff&sideLabels=e0e0e0&dates=e0e0e0" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harris-jayaram&theme=transparent&hide_border=true&layout=compact&title_color=00d4ff&text_color=e0e0e0&bg_color=1a1b27" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harris-jayaram&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&text_color=e0e0e0&bg_color=1a1b27" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🎨 Fun Fact
+
+When I’m not coding, you’ll find me designing graphics on **Canva** or exploring the latest trends in **Web3** and **AI**!  
+
+---
+
+> *"Code is poetry, and innovation is the rhythm."*
+
+---
+
+📌 *Last updated: June 2025*
