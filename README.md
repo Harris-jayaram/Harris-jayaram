@@ -1,102 +1,84 @@
-<h1 align="center" style="font-family:'Segoe UI', sans-serif;">👋 Hello World, I'm <span style="color:#00d4ff">Harris Jayaram</span></h1>
+<h1 align="center" style="font-size: 32px;">🔥 HARRIS JAYARAM 🔥</h1>
+<h3 align="center" style="font-size: 20px;">AI & DATA SCIENCE | BLOCKCHAIN DEV | FULL STACK INNOVATOR</h3>
 
 <p align="center">
-  <img src="https://github.com/Harris-jayaram/Harris-jayaram/blob/main/Harris%20Name%20Gif.gif" alt="Harris Name Animation" style="max-width:800px; border-radius:12px; box-shadow: 0 0 12px rgba(0, 212, 255, 0.3);" />
+  <img src="https://github.com/Harris-jayaram/Harris-jayaram/blob/main/assets/your-new-gif.gif" alt="Animated Profile GIF" width="100%" style="border-radius:15px; box-shadow:0 4px 15px rgba(0,0,0,0.3);" />
 </p>
 
-<h3 align="center" style="color:#e0e0e0;">AI Engineer • Blockchain Developer • Full-Stack Craftsman</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harris-jayaram&label=Profile%20Views&color=00d4ff&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Harris-jayaram?label=Followers&style=flat-square&logo=github&color=00d4ff" />
-</p>
-
----
-
-## 🚀 Who Am I?
-
-🎓 Final-year B.Tech student specializing in **Artificial Intelligence & Data Science** at Sri Krishna College of Technology, Coimbatore.  
-🧠 Passionate about building scalable, real-time solutions with **AI**, **Blockchain**, and **Cloud-native architectures**.  
-🧑‍💻 Interning @Crux & Cruzoe Innotek | Former Intern @KaaShiv (Full Stack) & CodeClause (Data Science).  
-🎯 Actively working on decentralized health records, real-time credit scoring systems, and smart NFT tools.  
-
-📫 **Reach me at**: [harrisjayaramr@gmail.com](mailto:harrisjayaramr@gmail.com)  
-🌐 **Portfolio**: Coming soon...
-
----
-
-## 🌍 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/harrisjayaramr" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/itz_me_hj_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://x.com/HarrisJayaram" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/Um9cd8Rq" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Harris-jayaram&label=PROFILE%20VIEWS&color=ff2e63&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Harris-jayaram?label=FOLLOWERS&style=flat-square&logo=github&color=00d4ff" alt="Followers" />
 </p>
 
 ---
 
-## 🧰 Tech Arsenal
+## 💼 WHAT I’M WORKING ON
+
+- 🧠 DEVELOPING **AI MODELS** FOR PREDICTIVE ANALYTICS & COMPUTER VISION  
+- ⛓️ BUILDING **DECENTRALIZED DAPPS** USING SOLIDITY & WEB3.JS  
+- 🌐 CREATING **FULL-STACK WEB & MOBILE APPS** USING REACT, NODE, FIREBASE  
+- ☁️ EXPLORING **AWS & GOOGLE CLOUD** FOR SCALABLE DEPLOYMENTS  
+
+---
+
+## 🧪 CURRENTLY BUILDING
+
+- ⚡ **REAL-TIME CREDIT RISK ENGINE** USING NON-TRADITIONAL DATA (ML + SPARK)  
+- 🏥 **DECENTRALIZED HEALTH RECORD DAPP** WITH REACT, SOLIDITY, IPFS  
+- 🔐 **BLOCKCHAIN LOST & FOUND APP** FOR UYIR HACKATHON 2024  
+- 📊 **POWER BI DASHBOARD** FOR UDEMY COURSE ANALYTICS  
+- 🤖 **SMARTBOT** – AN AI CHATBOT FOR CUSTOMER SUPPORT (TENSORFLOW + FLASK)
+
+---
+
+## ✨ FEATURED PROJECTS
+
+| PROJECT | TECH STACK | DESCRIPTION |
+|--------|------------|-------------|
+| 🛡️ **BLOCKCHAIN VOTING SYSTEM** | Solidity, React, Web3.js | Secure and transparent Ethereum voting DApp |
+| 🤖 **AI CHATBOT** | Python, TensorFlow, Flask | NLP-powered chatbot for real-time interaction |
+| 📦 **E-COMMERCE APP** | React Native, Firebase | Cross-platform mobile app with live sync |
+| 📊 **UDEMY BI DASHBOARD** | Power BI, Python, Pandas | Data dashboard for course trends & revenue |
+| 🧠 **CREDIT RISK ML ENGINE** | PySpark, ML, Flask | Real-time creditworthiness evaluation system |
+
+---
+
+## 🛠️ TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,keras,sklearn,react,tailwind,nodejs,flask,spring,web3,solidity,mongodb,mysql,postgres,aws,gcp,firebase,html,css,js,ts,c,cpp,java,git,github,postman,docker,netlify,vercel,render,canva,powerbi" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,solidjs,tailwind,nodejs,flask,spring,web3,solidity,aws,gcp,firebase,mongodb,mysql,python,pytorch,tensorflow,keras,sklearn,numpy,pandas,matplotlib,c,cpp,java,git,github,postman,netlify,vercel,render,canva,powerbi,socketio,anaconda,docker" />
 </p>
 
 ---
 
-## ⚒️ Currently Building
-
-- 🧠 **Real-Time Credit Risk Engine** using alternative data (ML + Spark).  
-- 🏥 **Decentralized Health Records** DApp with Solidity + IPFS + React.  
-- 🌐 **Lost & Found Blockchain App** for UYIR Hackathon 2024.  
-- 📊 **Udemy Courses Analytics Dashboard** using Power BI and Python.  
-
----
-
-## 💡 Highlight Projects
-
-| Project | Tech | Summary |
-|--------|------|---------|
-| 🗳️ Blockchain Voting System | Solidity, React, Web3.js | Secure, immutable Ethereum voting platform. |
-| 👩‍⚕️ Decentralized Health Record DApp | React, IPFS, Aptos/Ethereum | Ensures secure access and control of medical records. |
-| 🔍 Real-Time Credit Assessment | PySpark, ML, Flask | Assesses financial reliability using non-traditional data. |
-| 📦 E-Commerce App | React Native, Firebase | Cross-platform e-commerce with live sync. |
-| 📈 Udemy BI Dashboard | Pandas, Power BI, Excel | Insights into course trends and revenue patterns. |
-
----
-
-## 📊 GitHub Analytics
+## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Harris-jayaram&theme=transparent&hide_border=true&background=1a1b27&stroke=00d4ff&ring=00d4ff&fire=ff2e63&currStreakNum=00d4ff&sideNums=00d4ff&currStreakLabel=00d4ff&sideLabels=e0e0e0&dates=e0e0e0" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harris-jayaram&theme=transparent&hide_border=true&layout=compact&title_color=00d4ff&text_color=e0e0e0&bg_color=1a1b27" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Harris-jayaram&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&text_color=e0e0e0&bg_color=1a1b27" />
+  <img src="https://streak-stats.demolab.com/?user=Harris-jayaram&theme=dark&hide_border=true&stroke=00d4ff&ring=00d4ff&fire=ff2e63&currStreakNum=00d4ff&sideNums=00d4ff&currStreakLabel=00d4ff&sideLabels=e0e0e0&dates=e0e0e0" alt="GitHub Streak" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harris-jayaram&theme=dark&hide_border=true&layout=compact&title_color=00d4ff&text_color=e0e0e0&bg_color=1a1b27" alt="Top Languages" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harris-jayaram&show_icons=true&theme=dark&hide_border=true&title_color=00d4ff&text_color=e0e0e0&bg_color=1a1b27" alt="GitHub Stats" />
 </p>
 
 ---
 
-## 🔍 Explore My Interests
+## 🌐 CONNECT WITH ME
 
-- 🧠 Generative AI & Agentic LLMs  
-- 🌐 Web3 & Tokenomics for Utility Coins  
-- 📱 Full-stack SaaS Development  
-- 🔒 Blockchain in Public Sector Use Cases  
-
----
-
-> *"Code isn’t just logic; it’s art in motion."*
-
-🕒 *Last updated: June 2025*
+<p align="center">
+  <a href="https://linkedin.com/in/harrisjayaramr"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:harrisjayaramr@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Harris-jayaram"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
+## 🎨 FUN FACT
+
+WHEN I’M NOT CODING, I’M DESIGNING ON **CANVA**, READING BLOCKCHAIN WHITEPAPERS, OR HACKING ON SIDE PROJECTS WITH FRIENDS!
+
+> _"CODE IS POETRY, AND INNOVATION IS THE RHYTHM."_ 🎯
+
+---
+
+📌 **LAST UPDATED: JUNE 2025**
