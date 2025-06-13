@@ -45,10 +45,8 @@
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,solidjs,tailwind,nodejs,flask,spring,web3,solidity,aws,gcp,firebase,mongodb,mysql,python,pytorch,tensorflow,keras,sklearn,numpy,pandas,matplotlib,c,cpp,java,git,github,postman,netlify,vercel,render,canva,powerbi,socketio,anaconda,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,solidjs,tailwind,nodejs,flask,spring,web3,solidity,aws,gcp,firebase,mongodb,mysql,python,pytorch,tensorflow,keras,sklearn,numpy,pandas,matplotlib,c,cpp,java,git,github,postman,netlify,vercel,render,canva,powerbi,socketio,anaconda,docker,flutter,dart" />
 </p>
 
 <p align="center">
